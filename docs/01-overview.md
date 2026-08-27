@@ -8,5 +8,4 @@ This investigation tracks two separate but entangled threads:
 ## How this repo is organized
 
 - Each known media item gets one file under [`media-metadata/`](../media-metadata/).
-- Every claim about dates, hashes, or authenticity should trace back to [`evidence-index.md`](../evidence-index.md).
 - Metadata entries record hashes and provenance so items can be cross-referenced and verified independently, without this repo functioning as a distribution point.
