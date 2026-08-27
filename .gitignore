@@ -1,0 +1,21 @@
+# Raw media binaries — this repo is metadata-only, never commit actual leak files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.zip
+*.tar.gz
+*.rar
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+*.swp
