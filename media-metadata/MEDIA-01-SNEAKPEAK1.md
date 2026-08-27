@@ -1,4 +1,4 @@
-# Media Item 1: map sneak peek 1
+# Media Item 4: Map Sneak Peek 1 (Dalton Island)
 
 * **Media ID**: `MEDIA-01-SNEAKPEAK1`
 * **Content Description**: High-resolution crop of Dalton Island (Fisher Island recreation).
